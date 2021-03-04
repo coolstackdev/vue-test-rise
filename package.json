@@ -15,11 +15,20 @@
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config": "^5.0.0",
-    "@nuxtjs/eslint-module": "^3.0.2",
+    "@fortawesome/free-brands-svg-icons": "^5.15.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@nuxtjs/svg": "^0.1.12",
+    "@nuxtjs/tailwindcss": "^3.4.2",
+    "@tailwindcss/postcss7-compat": "^2.0.3",
+    "@vue/cli-service": "^4.5.11",
+    "@vue/eslint-config-airbnb": "^5.3.0",
+    "autoprefixer": "^9.8.6",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.18.0",
-    "eslint-plugin-nuxt": "^2.0.0",
-    "eslint-plugin-vue": "^7.5.0"
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-vue": "^7.5.0",
+    "postcss": "^7.0.35",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.3"
   }
 }
