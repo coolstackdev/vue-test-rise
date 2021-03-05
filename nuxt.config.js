@@ -53,7 +53,7 @@ export default {
 
   fontawesome: {
     icons: {
-      solid: ['faSearch', 'faStar', 'faRss', 'faBars'],
+      solid: ['faSearch', 'faStar', 'faRss', 'faBars', 'faTimes'],
       brands: ['faFacebookF', 'faTwitter', 'faInstagram', 'faPinterestP']
     }
   },

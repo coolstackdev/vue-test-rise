@@ -64,7 +64,7 @@ export default {
         cardTitle: {
           'font-brandon font-bold text-center px-5 text-black': true,
           'text-2xl': !this.isWide,
-          'text-3xl': this.isWide
+          'text-2xl md:text-3xl': this.isWide
         }
       }
     }

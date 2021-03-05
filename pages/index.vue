@@ -1,8 +1,8 @@
 <template>
-  <div class="container mx-auto">
+  <div class="w-full">
     <div class="w-full">
       <Header />
-      <div class="w-full md:w-5/6 md:mx-auto mt-10 px-5">
+      <div class="w-full max-w-screen-2xl mx-auto mt-10 px-5">
         <div>
           <p class="font-brandon md:text-6xl font-extrabold text-black text-4xl">
             Undeniably Devoted to Dairy
@@ -12,8 +12,8 @@
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
           </p>
         </div>
-        <div class="mt-5 py-5 flex border-b border-gray">
-          <p class="text-gray mr-4 text-base">
+        <div class="mt-0 md:mt-5 py-5 flex flex-wrap border-b border-gray">
+          <p class="text-gray mr-4 text-base w-full md:w-24 mb-3 md:mb-0">
             Learn more:
           </p>
           <p class="text-orange mr-4 text-base">
