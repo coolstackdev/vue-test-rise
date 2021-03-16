@@ -1,6 +1,13 @@
-# vue-test-rise
+## vue-test-rise
 
-## Build Setup
+### Deployed URL
+- Application
+https://vue-test-rise.netlify.app/
+
+- Storybook
+https://rise-storybook-components.netlify.app/
+
+### Build Setup
 
 ```bash
 # install dependencies
@@ -15,6 +22,11 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# run storybook
+$ npm run storybook
+
+
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
