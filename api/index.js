@@ -68,5 +68,12 @@ export const cards = [
         img: '/img/img4.jpg',
         isFeatured: false,
         isWide: false
+    },
+    {
+        title: 'Displays of Devotion, Murals Dedicated to Dairy',
+        category: 'article',
+        img: '/img/img3.jpg',
+        isFeatured: false,
+        isWide: false
     }
 ]
